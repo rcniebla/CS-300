@@ -1,1 +1,10 @@
-this is a readme file
+•	What was the problem you were solving in the projects for this course?
+The problem being solved in this course was C++ collections and how different data structures were more appropriate than others at different tasks.
+•	How did you approach the problem? Consider why data structures are important to understand.
+The book was the main souce of information on C++ data structures and how they were used but I also was able to get some first hand experience through the coding assignments. Data structure are important in that they enable the app to run either expediently or under a large load depending on how they are set up.  There are several kinds and it is important to know which one to use in a certain situation and how to use it.
+•	How did you overcome any roadblocks you encountered while going through the activities or project?
+As all of this was new to me there were several roadblocks at any given stage.  I referred back to the book many times and also researched online any issue that popped up.
+•	How has your work on this project expanded your approach to designing software and developing programs?
+It has taught me to look more analytically at the data structures I am using and to ask myself is this the right one to use.
+•	How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
+Having a better handle on data structures can help write more adaptable code in that if we set something up with the incorrect data structure early on it can significantly impact the program as the program grows.  Knowing what to use and why we are using it will benefit me going forward.
