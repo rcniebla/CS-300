@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\Users\Ryan Niebla\Documents\School\CS-300 DSA_Analysis and Design\Project2_CS300\Project2_CS300\Main.cpp(81,27): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Ryan Niebla\Documents\School\CS-300 DSA_Analysis and Design\Project2_CS300\Project2_CS300\Main.cpp(103,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ryan Niebla\Documents\School\CS-300 DSA_Analysis and Design\Project2_CS300\Project2_CS300\Main.cpp(107,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ryan Niebla\Documents\School\CS-300 DSA_Analysis and Design\Project2_CS300\Project2_CS300\Main.cpp(108,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ryan Niebla\Documents\School\CS-300 DSA_Analysis and Design\Project2_CS300\Project2_CS300\Main.cpp(164,27): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  LINK : C:\Users\Ryan Niebla\Documents\School\CS-300 DSA_Analysis and Design\Project2_CS300\Project2_CS300\x64\Debug\Project2_CS300.exe not found or not built by the last incremental link; performing full link
+  Project2_CS300.vcxproj -> C:\Users\Ryan Niebla\Documents\School\CS-300 DSA_Analysis and Design\Project2_CS300\Project2_CS300\x64\Debug\Project2_CS300.exe
